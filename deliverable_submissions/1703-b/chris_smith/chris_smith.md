@@ -9,7 +9,7 @@ Students should clone their individual file and update them with links to specif
        * I wrote a blog post on next() in ExpressJ,S because I have not updated my blog for a while.  I added a link to this on Twitter asking for feedback.  I also wrote several previous blog posts about blockchain topics.  I feel that these posts have helped me get accepted for two competative programs I have applied for this summer.
 * [Link to your completed Turing portfolio](https://www.turing.io/alumni/chris-smith)
 * [Summary of participation in practice interview](https://gist.github.com/iamchrissmith/ae26e8ed26cab6e57f22a31693d07365) 
-* [Link to completed action plan for the post-grad job search](https://github.com/iamchrissmith/career-development-curriculum/blob/a79ef5feb5e44c25a8cf21345dfc2c007aa44852/module_four/post_grad_plan.md): 
+* [Link to completed action plan for the post-grad job search](https://gist.github.com/iamchrissmith/d65aca31f06415c3179816f716b3db75): 
 
 ## Mod 3 Deliverables:
 
